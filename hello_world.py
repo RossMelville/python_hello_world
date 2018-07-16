@@ -18,3 +18,7 @@ print("Hello " + full_name.title() + "!")
 
 message = "Hello " + full_name.title() + " & " + name.title()
 print(message)
+
+print("Python")
+print("\tPython")
+print("Languages:\nJava\nRuby\nPython")
