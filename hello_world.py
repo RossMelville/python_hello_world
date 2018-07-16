@@ -4,6 +4,7 @@ print (message)
 message = "Hello Python Crash Course World"
 print (message)
 
+#this is to show that the title will capitalise the seperate words and upper and lower will put the words into those cases
 name = "ross melville"
 print(name.title())
 print(name.upper())
